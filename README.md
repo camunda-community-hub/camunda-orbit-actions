@@ -5,8 +5,19 @@
 # Camunda Community Hub Orbit GitHub Actions Workflows
 
 ### Usage
-TODO
+
+The following GitHub Actions are used to integrate various Camunda community platforms with Orbit.
+
+* YouTube
+* StackOverflow
+* Meetup
+
+Forthcoming integrations:
+
+* dev.to
+* Reddit
+* LinkedIn
 
 ### References:
 
-TODO
+https://github.com/orbit-love/github-actions-templates
